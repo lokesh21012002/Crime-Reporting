@@ -1,3 +1,7 @@
+Demo part for android application
+https://appetize.io/app/aceb4m0y3a5685dkcpb66mmjd8?device=pixel4&osVersion=11.0&scale=75
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
